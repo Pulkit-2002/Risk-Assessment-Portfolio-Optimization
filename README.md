@@ -1,4 +1,4 @@
-# Efficient Portfolio Optimization with Parallel Monte Carlo & Markowitz in Python
+# Risk-Assessment-and-Portfolio-Optimization
 This project presents a novel approach for portfolio optimization by combining parallel Monte Carlo simulations with Markowitz optimization. This innovative blend offers:
 
  - **Scalability:** Efficient analysis of large portfolios with complex market dynamics.
